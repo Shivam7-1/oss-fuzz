@@ -5,7 +5,7 @@ project:
   main_repo: "https://github.com/fossasia/visdom"
   issue_tracker: "https://github.com/fossasia/visdom/issues"
   contacts:
-    - "your-email@example.com"
+    - "jju@fb.com"
   fuzzing_engines:
     - "libfuzzer"
   sanitizers:
