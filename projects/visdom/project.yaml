@@ -1,0 +1,16 @@
+project:
+  name: "visdom"
+  description: "Visdom is a flexible tool for creating, organizing, and sharing visualizations of live, rich data."
+  language: "python"
+  main_repo: "https://github.com/fossasia/visdom"
+  issue_tracker: "https://github.com/fossasia/visdom/issues"
+  contacts:
+    - "your-email@example.com"
+  fuzzing_engines:
+    - "libfuzzer"
+  sanitizers:
+    - "address"
+    - "undefined"
+    - memory
+    - thread
+  architecture: "x86_64"
